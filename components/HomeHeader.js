@@ -28,15 +28,6 @@ const HomeHeader = ({ onSearch }) => {
 						resizeMode="contain"
 						style={{ width: 100, height: 45 }}
 					/>
-					{/* <Text
-						style={{
-							color: COLORS.white,
-							fontSize: SIZES.extraLarge,
-							fontFamily: FONTS.brand,
-						}}
-					>
-						NTF TOWN
-					</Text> */}
 				</View>
 
 				<View style={{ width: 40, height: 45 }}>
