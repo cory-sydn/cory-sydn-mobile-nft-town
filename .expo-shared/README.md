@@ -9,24 +9,3 @@ The "assets.json" file describes the assets that have been optimized through "ex
 > Should I commit the ".expo-shared" folder?
 
 Yes, you should share the ".expo-shared" folder with your collaborators.
-
-
-##How to deploy this app to the Expo ?
-
-###Step 1: Create an account
-  [Sign up Expo](https://expo.dev/signup)
-
-###Step 2: Deploy our application
-```
-sudo npm install -g expo-cli
-```
-
-###Step 3: Logging in
-```
-expo login
-```
-  >enter username or email
-  >enter passworde
-```
-expo publish
-```
