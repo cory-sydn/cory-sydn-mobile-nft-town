@@ -29,5 +29,5 @@ expo login
 
   >   Enter password
 ```
-expo publish!
+expo publish
 ```
